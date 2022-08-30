@@ -1,0 +1,23 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Exploring Kepler Exoplanets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/algonacci/planets-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/algonacci/planets-project/issues"
+  },
+  "homepage": "https://github.com/algonacci/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.0"
+  }
+}
